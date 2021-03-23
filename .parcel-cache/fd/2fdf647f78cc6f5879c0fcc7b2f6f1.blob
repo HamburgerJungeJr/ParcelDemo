@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page</title>
+</head>
+<body>
+    <a href="#other">Link to local anchor</a><br>
+    <a href="/index.html">Link to anchor on other page</a>
+    <div style="background-color: white; height: 1500px;
+">Scroll down</div>
+    <div id="other" style="background-color: white; height: 100px;
+">You should be scrolled to me</div>
+</body>
+</html><script src="/page.HASH_REF_2075737238bda8d290548410192d72ea.js"></script>

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page</title>
+</head>
+<body>
+    <a href="#local">Link to local anchor</a>
+    <a href="460ca5a6129f4bb151d8e4f237fca65c">Link to anchor on other page</a>
+    <div style="d721bd51d53ec6110e0e8d89c9b09fd4">Scroll down</div>
+    <div id="other" style="a74ddd273ed5b6b42be8ff4190d5fc2b">You should be scrolled to me</div>
+</body>
+</html><script src="8045a772666079d6bcb145c7e8b434e5"></script>

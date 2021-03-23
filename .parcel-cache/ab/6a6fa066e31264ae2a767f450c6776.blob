@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+</head>
+<body>
+    <a href="#local">Link to local anchor</a>
+    <a href="4bbb17a3589a68980291bd4db64f331e">Link to anchor on other page</a>
+    <div style="b24eedb8df12d9dca0ae1e2d4f578602">Scroll down</div>
+    <div id="local" style="9b2e0321ec9340b45b45ac2b544bcb3a">Scroll to me</div>
+</body>
+</html><script src="202f65accccb6071212b96a1d3c27081"></script>

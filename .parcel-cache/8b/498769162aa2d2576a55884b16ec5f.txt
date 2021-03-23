@@ -1,0 +1,12 @@
+11
+80/home/jannikheuer/Entwicklung/TestProjekte/ParcelDemo/dist/index.3ebff041.js.map1616534575467142933 0
+79/home/jannikheuer/Entwicklung/TestProjekte/ParcelDemo/dist/page.192d72ea.js.map1616534575466142887 0
+69/home/jannikheuer/Entwicklung/TestProjekte/ParcelDemo/dist/index.html1616534575461142656 0
+76/home/jannikheuer/Entwicklung/TestProjekte/ParcelDemo/dist/index.3ebff041.js1616534575462142702 0
+68/home/jannikheuer/Entwicklung/TestProjekte/ParcelDemo/dist/page.html1616534575461142656 0
+58/home/jannikheuer/Entwicklung/TestProjekte/ParcelDemo/dist1616534575470143071 1
+66/home/jannikheuer/Entwicklung/TestProjekte/ParcelDemo/package.json1616534543361660804 0
+64/home/jannikheuer/Entwicklung/TestProjekte/ParcelDemo/index.html1616534575253133053 0
+75/home/jannikheuer/Entwicklung/TestProjekte/ParcelDemo/dist/page.192d72ea.js1616534575462142702 0
+63/home/jannikheuer/Entwicklung/TestProjekte/ParcelDemo/page.html1616534498678617660 0
+53/home/jannikheuer/Entwicklung/TestProjekte/ParcelDemo1616534549058923814 1
